@@ -8,7 +8,7 @@ wheels/
 .claude
 logs/
 .DS_Store
-.jsonl
+*.jsonl
 
 # Virtual environments
 .venv
