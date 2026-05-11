@@ -12,3 +12,4 @@ logs/
 
 # Virtual environments
 .venv
+results/results_with_responses.csv
